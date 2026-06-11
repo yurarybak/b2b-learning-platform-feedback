@@ -155,7 +155,6 @@ Recently Completed:
 
 - Add interaction states for `quiz`, `reflection`, and `exercise` activities: `Save draft`, `Submit`, `Submitted`, and `Coach reviewed`.
 - Add coach feedback visibility for reflections and exercises.
-- Clean up text encoding issues in activity content.
 
 <img width="1430" height="763" alt="image" src="https://github.com/user-attachments/assets/e1e10cd7-2565-4736-b40f-31805c2aa7dd" />
 
@@ -248,7 +247,6 @@ The school admin dashboard gives a clear organization-level view across `teams`,
 - Add trend context for users, invites, teams, inactive users, and low-engagement teams.
 - Make the Teams summary drillable into roster, coaches, assigned modules, and progress trends.
 - Add alerts for pending invites, inactive coaches, teams without assigned modules, or billing/subscription issues.
-- Clean up text encoding issues in team metadata.
 
 <img width="1427" height="852" alt="image" src="https://github.com/user-attachments/assets/8254f821-e4f7-467b-b1f3-a9b48f3d2c52" />
 
